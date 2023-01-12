@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Game
+
+  Created by Lamia AlSiddiqi on 19/06/1444 AH.
+  
+*/
+"Start the Game" = "ابدأ اللعبة";
+"Choose the Level" = "اختر المرحلة";
+
+"Level 1" = "المرحلة ١";
+"Level 2" = "المرحلة ٢";
+"Level 3" = "المرحلة ٣";
+"Level 4" = "المرحلة ٤";
+
+"Sports" = "الرياضة";
+"Match These Cards to Win" = "طابق هذه البطاقات للفوز";
+"Ocean" = "المحيطات";
+"Animals" = "الحيوانات";
+"Food & Drinks" = "الأطعمة والمشروبات";

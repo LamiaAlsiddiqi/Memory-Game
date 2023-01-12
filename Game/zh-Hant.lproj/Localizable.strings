@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Game
+
+  Created by Lamia AlSiddiqi on 19/06/1444 AH.
+  
+*/
+"Start the Game" = "開始遊戲";
+"Choose the Level" = "選擇級別";
+"Level 1" = "1級";
+"Level 2" = "2級";
+"Level 3" = "3級";
+"Level 4" = "4級";
+
+"Match These Cards to Win" = "匹配這些卡贏";
+"Sports" = "運動的";
+"Ocean" = "海洋";
+"Animals" = "動物";
+"Food & Drinks" = "食物和飲料";
